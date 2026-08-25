@@ -23,15 +23,6 @@ The dataset used in this project consists of various environmental parameters su
 - Implements the Random Forest Regression algorithm, suitable for predicting continuous numerical values.
 - Trains the model on the generated dataset and evaluates its performance using the mean squared error (MSE) metric.
 
-## Usage
-
-1. Clone the repository:
-
-```
-git clone https://github.com/yourusername/solar-energy-prediction.git
-```
-
-2. Navigate to the project directory:
 
 ```
 cd solar-energy-prediction
